@@ -1,4 +1,4 @@
-# CallCenterDashboard
+# Call Center Dashboard with Power BI
 This project was carried out to clean data and create a dashboard of call centre trends. Indicators like 
   - Overall Customer Satisfaction
   - Speed of Answer per agent
